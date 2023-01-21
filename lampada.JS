@@ -11,5 +11,6 @@ function lampOff() {
 }
 
 
+
 turnOn.addEventListener('click', lampOn);
 turnOff.addEventListener('click', lampOff);
