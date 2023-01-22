@@ -1,5 +1,6 @@
 body {
-    color: rgb(42, 58, 129);
+    color: rgb(4, 48, 245);
+    
 }
 header, main {
     display: flex;
@@ -16,7 +17,7 @@ header, main {
     color: blue;
 }
 .acs {
-    background-color: blue;
+    background-color: rgb(13, 172, 216);
     color: red;
-    border: 1px solid black;
+    border: 3px solid black;
 }
