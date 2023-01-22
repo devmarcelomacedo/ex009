@@ -18,4 +18,5 @@ header, main {
 .acs {
     background-color: blue;
     color: red;
+    border: 1px solid black;
 }
